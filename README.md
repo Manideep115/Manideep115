@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://media.tenor.com/huGZfALu9LwAAAAM/wakeup-goodmorning.gif" width="300"/>
+  <img src="https://media.tenor.com/huGZfALu9LwAAAAM/wakeup-goodmorning.gif" width="400"/>
 </p>
 
 <p align="center">
