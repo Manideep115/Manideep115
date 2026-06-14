@@ -74,16 +74,6 @@ I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **pract
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manideep-alur-0333b3275">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/alurmanideep115">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
