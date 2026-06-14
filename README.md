@@ -17,7 +17,7 @@
 ## 👋 About Me
 
 <a href="https://ask-manideep-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🔗_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
   </a>
 
 I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **practical AI systems**, not just models.
