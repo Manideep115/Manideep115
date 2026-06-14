@@ -16,6 +16,10 @@
 
 ## 👋 About Me
 
+<a href="https://ask-manideep-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
+  </a>
+
 I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **practical AI systems**, not just models.
 
 - 🚀 Working on **RAG pipelines, GenAI apps, and local LLM systems**
@@ -44,9 +48,6 @@ I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **pract
   </a>
   <a href="https://www.instagram.com/alurmanideep115">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://ask-manideep-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
