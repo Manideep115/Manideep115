@@ -36,6 +36,20 @@ I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **pract
   <img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manideep-alur-0333b3275">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/alurmanideep115">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://ask-manideep-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
+  </a>
+</p>
+
 ### 🖥️ Interface & Apps
 <p align="left">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
