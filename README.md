@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/🔗_Ask_Manideep_Portfolio-000000?style=for-the-badge"/>
   </a>
 
-I’m **Manideep Alur**, an aspiring **AI Engineer** focused on building **practical AI systems**, not just models.
+I’m **Manideep Alur**, an **AI Full Stack Engineer** focused on building **practical AI systems and products**, not just models.
 
 - 🚀 Working on **RAG pipelines, GenAI apps, and local LLM systems**
 - 💡 Interested in **AI system design & real-world deployment**
